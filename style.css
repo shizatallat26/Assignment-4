@@ -1,0 +1,41 @@
+.navbar{
+    background-color: #F5F5F5 !important;
+    height: 80px;
+}
+.nav-right{
+    margin-left: 1000px;
+}
+.heading:hover{
+    transform: scale(1.3);
+    transition-duration: 1s;
+}
+.card{
+    height: 300px;
+}
+.c-title:hover{
+    transform: scale(1.3);
+    transition-duration: 1s;
+}
+.dropdown-item:hover{
+    color: rgb(126, 126, 126) !important;
+    transform: scale(1.1);
+}
+.about-us{
+    text-shadow: 2px 2px 5px grey;
+}
+.about-us:hover{
+    transform: scale(1.3);
+    transition-duration: 1s;
+    text-shadow: 2px 2px 5px grey;
+}
+.web-dev{
+    text-shadow: 2px 2px 5px grey;
+}
+.nav-item:hover{
+    background-color: grey !important;
+    border-radius: 10px;
+}
+.certificate-card{
+    width: 75%;
+  
+}
